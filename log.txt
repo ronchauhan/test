@@ -1,0 +1,73 @@
+[  0%] Building CXX object common/CMakeFiles/common.dir/src/pfq-rwlock.C.o
+[  1%] Building CXX object common/CMakeFiles/common.dir/src/Types.C.o
+[  1%] Building CXX object common/CMakeFiles/common.dir/src/Timer.C.o
+[  1%] Building CXX object common/CMakeFiles/common.dir/src/concurrent.C.o
+[  1%] Building CXX object common/CMakeFiles/common.dir/src/lprintf.C.o
+[  1%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTlinux.c.o
+[  1%] Building CXX object elf/CMakeFiles/dynElf.dir/src/Elf_X.C.o
+[  2%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTheap.c.o
+[  3%] Building CXX object common/CMakeFiles/common.dir/src/stats.C.o
+[  3%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTposix.c.o
+[  3%] Building CXX object common/CMakeFiles/common.dir/src/Annotatable.C.o
+[  3%] Building CXX object common/CMakeFiles/common.dir/src/MappedFile.C.o
+[  3%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTcommon.c.o
+[  3%] Building CXX object common/CMakeFiles/common.dir/src/sha1.C.o
+[  3%] Building CXX object common/CMakeFiles/common.dir/src/pathName.C.o
+[  3%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTheap-linux.c.o
+[  4%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTlinux.c.o
+[  4%] Building CXX object common/CMakeFiles/common.dir/src/util.C.o
+[  4%] Building CXX object common/CMakeFiles/common.dir/src/Node.C.o
+[  4%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTposix.c.o
+[  4%] Building CXX object common/CMakeFiles/common.dir/src/Graph.C.o
+[  4%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTthread.c.o
+[  4%] Building CXX object common/CMakeFiles/common.dir/src/Edge.C.o
+[  4%] Building CXX object common/CMakeFiles/common.dir/src/DOT.C.o
+[  4%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTcommon.c.o
+[  5%] Building CXX object common/CMakeFiles/common.dir/src/dyn_regs.C.o
+[  6%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTheap.c.o
+[  6%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTthread-x86-64.c.o
+[  6%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTspace.S.o
+[  7%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTheap-linux.c.o
+[  7%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTsignal.c.o
+[  7%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTthread.c.o
+[  7%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTspace.S.o
+[  8%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTsignal.c.o
+[  8%] Building CXX object common/CMakeFiles/common.dir/src/AST.C.o
+[  8%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT.dir/src/RTtlsgetaddr-x86.S.o
+[  8%] Building CXX object common/CMakeFiles/common.dir/src/addrtranslate.C.o
+[  8%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTthread-x86-64.c.o
+[  8%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTtlsgetaddr-x86.S.o
+[  8%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTstatic_ctors_dtors_begin.c.o
+[  9%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTstatic_ctors_dtors_end.c.o
+[  9%] Building C object dyninstAPI_RT/CMakeFiles/dyninstAPI_RT_static.dir/src/RTstatic_ctors_dtors-x86.c.o
+[  9%] Building CXX object common/CMakeFiles/common.dir/src/arch-x86.C.o
+[ 10%] Building CXX object common/CMakeFiles/common.dir/src/arch-power.C.o
+[ 10%] Building CXX object common/CMakeFiles/common.dir/src/arch-aarch64.C.o
+[ 10%] Building CXX object common/CMakeFiles/common.dir/src/debug_common.C.o
+[ 10%] Building CXX object common/CMakeFiles/common.dir/src/VariableLocation.C.o
+[ 11%] Building CXX object common/CMakeFiles/common.dir/src/Buffer.C.o
+[ 11%] Building CXX object common/CMakeFiles/common.dir/src/linuxKludges.C.o
+[ 11%] Building CXX object common/CMakeFiles/common.dir/src/MachSyscall.C.o
+[ 11%] Building CXX object common/CMakeFiles/common.dir/src/parseauxv.C.o
+[ 11%] Building CXX object common/CMakeFiles/common.dir/src/addrtranslate-auxv.C.o
+[ 12%] Building CXX object common/CMakeFiles/common.dir/src/addrtranslate-sysv.C.o
+[ 12%] Linking C static library libdyninstAPI_RT.a
+[ 13%] Linking C shared library libdyninstAPI_RT.so
+[ 13%] Built target dyninstAPI_RT_static
+[ 13%] Building CXX object common/CMakeFiles/common.dir/src/addrtranslate-linux.C.o
+[ 13%] Built target dyninstAPI_RT
+[ 14%] Building CXX object common/CMakeFiles/common.dir/src/symbolDemangleWithCache.C.o
+[ 14%] Building C object common/CMakeFiles/common.dir/src/symbolDemangle.c.o
+[ 14%] Linking CXX shared library libdynElf.so
+[ 14%] Built target dynElf
+[ 14%] Linking CXX shared library libcommon.so
+/usr/bin/ld: /home/ronak/dyninst-experiments/spack/opt/spack/linux-centos8-zen2/gcc-10.2.0/libiberty-2.33.1-f3qr72x4fl2dmk7bjrl3ik46ux67fuvt/lib64/libiberty.a(cplus-dem.o): relocation R_X86_64_32 against symbol `libiberty_demanglers' can not be used when making a shared object; recompile with -fPIC
+/usr/bin/ld: /home/ronak/dyninst-experiments/spack/opt/spack/linux-centos8-zen2/gcc-10.2.0/libiberty-2.33.1-f3qr72x4fl2dmk7bjrl3ik46ux67fuvt/lib64/libiberty.a(cp-demangle.o): relocation R_X86_64_32S against `.rodata' can not be used when making a shared object; recompile with -fPIC
+/usr/bin/ld: /home/ronak/dyninst-experiments/spack/opt/spack/linux-centos8-zen2/gcc-10.2.0/libiberty-2.33.1-f3qr72x4fl2dmk7bjrl3ik46ux67fuvt/lib64/libiberty.a(d-demangle.o): relocation R_X86_64_32S against symbol `_sch_istable' can not be used when making a shared object; recompile with -fPIC
+/usr/bin/ld: /home/ronak/dyninst-experiments/spack/opt/spack/linux-centos8-zen2/gcc-10.2.0/libiberty-2.33.1-f3qr72x4fl2dmk7bjrl3ik46ux67fuvt/lib64/libiberty.a(rust-demangle.o): relocation R_X86_64_32 against `.rodata.str1.1' can not be used when making a shared object; recompile with -fPIC
+/usr/bin/ld: /home/ronak/dyninst-experiments/spack/opt/spack/linux-centos8-zen2/gcc-10.2.0/libiberty-2.33.1-f3qr72x4fl2dmk7bjrl3ik46ux67fuvt/lib64/libiberty.a(xmalloc.o): relocation R_X86_64_32 against `.rodata.str1.1' can not be used when making a shared object; recompile with -fPIC
+/usr/bin/ld: final link failed: Nonrepresentable section on output
+collect2: error: ld returned 1 exit status
+make[2]: *** [common/CMakeFiles/common.dir/build.make:609: common/libcommon.so.12.2.1] Error 1
+make[1]: *** [CMakeFiles/Makefile2:346: common/CMakeFiles/common.dir/all] Error 2
+make: *** [Makefile:136: all] Error 2
